@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - db_starwars@localhost" uuid="e473b6fb-0c3c-4b21-9d3a-747a6b98f468">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>db_starwars.*</schema-pattern>
+      <default-schemas>db_starwars.*</default-schemas>
+    </data-source>
+  </component>
+</project>
